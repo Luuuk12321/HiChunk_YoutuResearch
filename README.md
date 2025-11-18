@@ -88,6 +88,7 @@ Each data item in `HiChunk/dataset/qas/{dataset}.txt` are represented as followi
     "_id": "str. {doc_id}"
 }
 ```
+The example dataset of LongBench will be found in this [link](https://drive.google.com/file/d/1t0NyxP9NzfW-Lp8fkQxs4VJcPNPvuThg/view?usp=drive_link).
 
 ## Getting Start
 ### 1. Document Chunking
